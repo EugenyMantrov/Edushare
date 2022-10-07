@@ -1,0 +1,39 @@
+.container {
+    margin: 0 auto;
+    width: 1180px;
+    height: 680px;
+}
+.header{
+    font-size: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+h1 {
+    max-width: 40%;
+    font-size: 60px;
+}
+nav {
+    max-width: 50%;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    width: 336px;
+    height: 18px;
+}
+p{
+    width: 447px;
+    font-size: 20px;
+}
+img{
+    width: 594px;
+}
+.h1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+#learnMore{
+    display: block;
+}
